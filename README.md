@@ -8,4 +8,4 @@ Timber Guy!
 6. Handled player's input and player's death.<br><br>
 
 Demo
-![](timberGuy.gif)
+![](timberguy.gif)
