@@ -13,3 +13,7 @@
 
 Demo<br>
 ![](timberguy.gif)
+
+<br><br>
+
+<b>Learnings and why use C++:<b> With any new project, the #goal should always be to learn and understand the concepts of #programming, i.e. the principles such as #memory-management, object-oriented programming #OOP, compiling & linking. The goal should not be to get the results as fast as possible, as it interferes with creating good codes. C++, in a way, forces you to create clean solutions and care for memory or otherwise the game just won’t work. This is the benefit of working with purely compiled languages as the compiler tells you to do it correctly or things will crash. This could be hard in the beginning but you will learn a lot of stuff in a short time. Also, #Garbage-collection is nice, it's convenient to not care for the memory but with game programming, garbage-collection could lead to unpredictable performance glitches (short pausing of the application). C++ makes you the master of construction and destruction and you are able to control when memory is allocated and freed. Lastly, performance is always relevant, and applications should be platform-independent. 
