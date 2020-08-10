@@ -11,7 +11,7 @@
 6. Handled growing and updating branches, pausing and restarting the game and collision detection with screen and objects.
 <br><br>
 
-Demo<br>
+Demo <br><br>
 ![](timberguy.gif)
 
 <br><br>
