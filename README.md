@@ -1,4 +1,7 @@
-<b>Timber Guy game engine in C++.<b>
+<b>Just finished writing my fully working and functional #game-engine (Lumberjack) in #C++ and #objective-C++.
+   I am a huge fan of C++ and love incorporating physics into my programming.
+   I plan to expand and evolve this code to add more features.
+   <br>Tool: #Xcode Library: #SFML<br><br><b>
 
 1. Created shapes (tree, branches, player, clouds, bee, axe, log, gravestone) using SFML Texture, Sprite and draw and added movement to the shapes.<br>
 2. Added a time bar to keep track of player’s remaining time as well as to respond when the player runs out of time.<br>
