@@ -1,5 +1,5 @@
 <b>Lumberjack in C++ and objective-C++.
-   <br>Tool: Xcode Library: SFML<br><br><b>
+   <br>Tool: Xcode, Library: SFML<br><br><b>
 
 1. Created shapes (tree, branches, player, clouds, bee, axe, log, gravestone) using SFML Texture, Sprite and draw and added movement to the shapes.<br>
 2. Added a time bar to keep track of player’s remaining time as well as to respond when the player runs out of time.<br>
