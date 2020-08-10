@@ -1,4 +1,4 @@
-Timber Guy!
+<b>Timber Guy game engine in C++.<b>
 
 1. Created Shapes and added movement to the shapes (clouds, tree, buzzing bee, the palyer, axe, and log) using SFML Texture, Sprite and draw.<br>
 2. Added functionality to pause and restart the game. <br>
