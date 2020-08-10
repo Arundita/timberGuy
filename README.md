@@ -5,7 +5,7 @@ Timber Guy!
 3. Added score and message text using the Text and Font classes of SFML.<br>
 4. Added a timebar, added the functionality for growing branches.<br>
 5. Added sounds using SFML sound class.<br>
-6. Handled player's input (keyboard's input, mouse positions and inputs) and player's death.<br><br>
+6. Handled player's input (keyboard's input, mouse positions and inputs) and player's death(removing/replacing shapes).<br><br>
 
 Demo
 ![](timberguy.gif)
