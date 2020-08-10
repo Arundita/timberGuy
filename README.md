@@ -1,11 +1,12 @@
 <b>Timber Guy game engine in C++.<b>
 
-1. Created Shapes and added movement to the shapes (clouds, tree, buzzing bee, the palyer, axe, and log) using SFML Texture, Sprite and draw.<br>
-2. Added functionality to pause and restart the game. <br>
-3. Added score and message text using the Text and Font classes of SFML.<br>
-4. Added a timebar, added the functionality for growing branches.<br>
-5. Added sounds using SFML sound class.<br>
-6. Handled player's input (keyboard's input, mouse positions and inputs) and player's death(removing/replacing shapes).<br><br>
+1. Created shapes (tree, branches, player, clouds, bee, axe, log, gravestone) using SFML Texture, Sprite and draw and added movement to the shapes.<br>
+2. Added a time bar to keep track of player’s remaining time as well as to respond when the player runs out of time.<br>
+3. Handled player’s input (keyboard input, mouse positions and inputs) and player’s death.<br>
+4. Added sound effects for log chopping, player ran out of time and player’s death using SFML sound class.<br>
+5. Added score and message text using Text and Font class of SFML.<br>
+6. Handled growing and updating branches, pausing and restarting the game and collision detection with screen and objects.
+<br><br>
 
-Demo
+Demo<br>
 ![](timberguy.gif)
