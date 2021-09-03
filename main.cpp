@@ -1,8 +1,4 @@
 
-//
-// Disclaimer:
-// ----------
-//
 // This code will work only if you selected window, graphics and audio.
 //
 // Note that the "Run Script" build phase will copy the required frameworks
@@ -16,9 +12,7 @@
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
 #include<sstream>
-
 using namespace std;
-// Here is a small helper for you! Have a look.
 #include "ResourcePath.hpp"
 using namespace sf;
 
